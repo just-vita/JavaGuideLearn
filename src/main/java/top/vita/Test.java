@@ -3,6 +3,7 @@ package top.vita;
 import java.io.*;
 import java.util.*;
 import java.util.concurrent.*;
+import java.util.function.BiFunction;
 import java.util.stream.Collectors;
 
 /**

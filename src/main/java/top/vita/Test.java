@@ -30,10 +30,12 @@ public class Test {
 
 //        new ArrayDeque<>().add(null);
 
-        Integer integer1 = Integer.valueOf(1024);
-        Integer integer2 = Integer.valueOf(1024);
-        System.out.println(integer1 == integer2);
-        integer2.intValue();
+//        Integer integer1 = Integer.valueOf(1024);
+//        Integer integer2 = Integer.valueOf(1024);
+//        System.out.println(integer1 == integer2);
+//        integer2.intValue();
+
 
     }
+
 }

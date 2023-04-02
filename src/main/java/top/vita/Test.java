@@ -14,6 +14,9 @@ import java.util.stream.Stream;
  * @Date 2023/3/22 16:31
  */
 public class Test {
+
+    char a;
+
     public static void main(String[] args) throws IOException, ExecutionException, InterruptedException {
 //        Integer[] arr = {1, 2, 3};
 //        List<Integer> collect = Arrays.stream(arr).collect(Collectors.toList());
@@ -48,8 +51,8 @@ public class Test {
 //        stream.limit(1);
 //        list.parallelStream().forEach(System.out::println);
 
-
-
+        // 初始化零值
+        System.out.println(new Test().a);
 
     }
 
